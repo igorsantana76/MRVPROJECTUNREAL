@@ -666,3 +666,50 @@ LogInit: Object subsystem initialized
 [2018.06.09-23.38.41:796][127]Cmd: MAP CHECKDEP NOCLEARLOG
 [2018.06.09-23.38.41:871][127]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75ms to complete.
 [2018.06.09-23.38.41:871][127]LogFileHelpers: Loading map 'DavidLevel' took 0.135
+[2018.06.09-23.39.57:361][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.09-23.40.48:676][330]LogSlate: Window 'Salvar Conteúdo' being destroyed
+[2018.06.09-23.40.48:771][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AllanLevel" FILE="../../../../../../Projects/MRVPROJECTUNREAL/Content/AllanLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.09-23.40.48:796][330]LogSavePackage: Save=10.01ms
+[2018.06.09-23.40.48:796][330]LogSavePackage: Moving '../../../../../../Projects/MRVPROJECTUNREAL/Saved/AllanLevel2D74965B42E0777D500564B07A7C9456.tmp' to '../../../../../../Projects/MRVPROJECTUNREAL/Content/AllanLevel.umap'
+[2018.06.09-23.40.48:802][330]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/MRVPROJECTUNREAL/Content/AllanLevel.umap
+[2018.06.09-23.40.48:802][330]LogFileHelpers: Saving map 'AllanLevel' took 0.115
+[2018.06.09-23.40.48:805][330]Cmd: MAP LOAD FILE="../../../../../../Projects/MRVPROJECTUNREAL/Content/AllanLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.09-23.40.48:806][330]LightingResults: New page: Compilação de Iluminação
+[2018.06.09-23.40.48:806][330]LoadErrors: New page: Carregando mapa: AllanLevel.umap
+[2018.06.09-23.40.48:807][330]MapCheck: New page: Verificação de Mapa
+[2018.06.09-23.40.48:807][330]LightingResults: New page: Compilação de Iluminação
+[2018.06.09-23.40.48:823][330]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.09-23.40.48:823][330]LogAIModule: Creating AISystem for world AllanLevel
+[2018.06.09-23.40.48:866][330]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.09-23.40.48:939][330]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73,36ms to complete.
+[2018.06.09-23.40.48:941][330]LogFileHelpers: Loading map 'AllanLevel' took 0.137
+[2018.06.09-23.41.01:175][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.09-23.41.29:484][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.09-23.41.29:541][258]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.09-23.41.29:565][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.09-23.41.29:565][258]PIE: New page: Sessão de PIE : AllanLevel (09/06/2018 17:41:29)
+[2018.06.09-23.41.29:565][258]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AllanLevel
+[2018.06.09-23.41.29:566][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000870s)
+[2018.06.09-23.41.29:567][258]LogAIModule: Creating AISystem for world AllanLevel
+[2018.06.09-23.41.29:567][258]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2018.06.09-23.41.29:568][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AllanLevel.AllanLevel to /Game/UEDPIE_0_AllanLevel.AllanLevel (0.002189s)
+[2018.06.09-23.41.29:587][258]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.09-23.41.29:680][258]LogInit: FAudioDevice initialized.
+[2018.06.09-23.41.29:718][258]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.09-23.41.29:719][258]LogWorld: Bringing World /Game/UEDPIE_0_AllanLevel.AllanLevel up for play (max tick rate 60) at 2018.06.09-20.41.29
+[2018.06.09-23.41.29:720][258]LogWorld: Bringing up level for play took: 0.000354
+[2018.06.09-23.41.29:722][258]PIE: Momento de início de reprodução no editor para /Game/UEDPIE_0_AllanLevel 1,152
+[2018.06.09-23.42.14:087][842]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.09-23.42.14:107][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.09-23.42.14:108][842]PIE: New page: Sessão de PIE : AllanLevel (09/06/2018 17:42:14)
+[2018.06.09-23.42.14:108][842]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AllanLevel
+[2018.06.09-23.42.14:108][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000491s)
+[2018.06.09-23.42.14:109][842]LogAIModule: Creating AISystem for world AllanLevel
+[2018.06.09-23.42.14:109][842]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2018.06.09-23.42.14:109][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AllanLevel.AllanLevel to /Game/UEDPIE_0_AllanLevel.AllanLevel (0.001243s)
+[2018.06.09-23.42.14:126][842]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.09-23.42.14:211][842]LogInit: FAudioDevice initialized.
+[2018.06.09-23.42.14:249][842]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.09-23.42.14:251][842]LogWorld: Bringing World /Game/UEDPIE_0_AllanLevel.AllanLevel up for play (max tick rate 60) at 2018.06.09-20.42.14
+[2018.06.09-23.42.14:251][842]LogWorld: Bringing up level for play took: 0.000419
+[2018.06.09-23.42.14:253][842]PIE: Momento de início de reprodução no editor para /Game/UEDPIE_0_AllanLevel -0,317
