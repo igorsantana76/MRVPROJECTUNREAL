@@ -1,0 +1,1144 @@
+﻿Log file open, 06/09/18 20:38:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MRVPROJECT2
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1785002416) SRandInit(-1785002416).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.336590
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/Binaries/Win64/UE4Editor-GoogleVRHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GoogleVRHMD
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.484s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Allan_PC (192.168.0.10:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.09-23.38.02:071][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.09-23.38.02:071][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.09-23.38.02:086][  0]LogInit: Computer: ALLAN_PC
+[2018.06.09-23.38.02:086][  0]LogInit: User: allan
+[2018.06.09-23.38.02:086][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.09-23.38.02:086][  0]LogInit: High frequency timer resolution =2.742191 MHz
+[2018.06.09-23.38.02:087][  0]LogMemory: Memory total: Physical=7.7GB (8GB approx)
+[2018.06.09-23.38.02:087][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.09-23.38.02:087][  0]LogMemory: Process Physical Memory: 275.03 MB used, 275.03 MB peak
+[2018.06.09-23.38.02:087][  0]LogMemory: Process Virtual Memory: 264.84 MB used, 264.84 MB peak
+[2018.06.09-23.38.02:087][  0]LogMemory: Physical Memory: 5181.26 MB used,  2657.42 MB free, 7838.68 MB total
+[2018.06.09-23.38.02:087][  0]LogMemory: Virtual Memory: 4794.52 MB used,  2657.42 MB free, 134217728.00 MB total
+[2018.06.09-23.38.02:117][  0]LogInit: Using OS detected language (pt-BR).
+[2018.06.09-23.38.02:117][  0]LogInit: Using OS detected locale (pt-BR).
+[2018.06.09-23.38.02:618][  0]LogStreaming: Display: Took  0.502s to EndInitTextLocalization.
+[2018.06.09-23.38.02:618][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.09-23.38.02:658][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.09-23.38.02:658][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.09-23.38.02:960][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.09-23.38.03:045][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2018.06.09-23.38.03:045][  0]LogD3D11RHI:       4018/0/3919 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.09-23.38.03:072][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.06.09-23.38.03:072][  0]LogD3D11RHI:       128/0/3919 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.06.09-23.38.03:075][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.09-23.38.03:075][  0]LogD3D11RHI:       0/0/3919 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.09-23.38.03:075][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.09-23.38.03:115][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.09-23.38.03:115][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2018.06.09-23.38.03:115][  0]LogWindows: EnumDisplayDevices:
+[2018.06.09-23.38.03:115][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.06.09-23.38.03:115][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.06.09-23.38.03:115][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.06.09-23.38.03:116][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.06.09-23.38.03:116][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.09-23.38.03:116][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2018.06.09-23.38.03:116][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.09-23.38.03:116][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.09-23.38.03:116][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2018.06.09-23.38.03:175][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.09-23.38.03:175][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.09-23.38.03:175][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.09-23.38.03:253][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.09-23.38.03:254][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (../../../../../../Projects/MRVPROJECTUNREAL/Intermediate/Shaders/WorkingDirectory/3256/).
+[2018.06.09-23.38.03:254][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/allan/AppData/Local/Temp/UnrealShaderWorkingDir/F3CFE58A48FE9E85FE1AB68DEAD68889/'.
+[2018.06.09-23.38.03:565][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.09-23.38.03:582][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.09-23.38.03:612][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.09-23.38.03:638][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.09-23.38.03:656][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.09-23.38.03:677][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.09-23.38.03:693][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.09-23.38.03:713][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.09-23.38.03:721][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.09-23.38.03:739][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.09-23.38.03:752][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.09-23.38.03:771][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.09-23.38.03:785][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.09-23.38.03:805][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.09-23.38.03:817][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.09-23.38.03:852][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.09-23.38.03:852][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.09-23.38.03:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.09-23.38.03:874][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.09-23.38.03:916][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.09-23.38.03:936][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.09-23.38.03:949][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.09-23.38.03:964][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.09-23.38.03:986][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.09-23.38.04:007][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.09-23.38.04:007][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.09-23.38.04:174][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.09-23.38.04:174][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.09-23.38.04:175][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.09-23.38.05:143][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.09-23.38.05:292][  0]LogDerivedDataCache: Loaded boot cache 0.15s 74MB C:/Users/allan/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.09-23.38.05:292][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/allan/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.09-23.38.05:293][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Projects/MRVPROJECTUNREAL/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.09-23.38.05:293][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.09-23.38.05:293][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Projects/MRVPROJECTUNREAL/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.09-23.38.05:293][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.09-23.38.05:316][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.09-23.38.05:329][  0]LogDerivedDataCache: Using Local data cache path C:/Users/allan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.09-23.38.05:329][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.09-23.38.05:329][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.09-23.38.05:351][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.09-23.38.05:352][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.09-23.38.05:353][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.09-23.38.05:353][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.09-23.38.05:521][  0]LogAssetRegistry: FAssetRegistry took 0.0294 seconds to start up
+[2018.06.09-23.38.05:945][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.09-23.38.06:151][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.09-23.38.06:155][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.09-23.38.06:155][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.09-23.38.06:155][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.09-23.38.06:155][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.09-23.38.06:155][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.09-23.38.06:211][  0]LogNetVersion: MRVPROJECT2 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1956223956)
+[2018.06.09-23.38.06:985][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.115721 seconds
+[2018.06.09-23.38.06:997][  0]LogUObjectArray: 36813 objects as part of root set at end of initial load.
+[2018.06.09-23.38.06:997][  0]LogUObjectAllocator: 7329048 out of 0 bytes used by permanent object pool.
+[2018.06.09-23.38.06:997][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.09-23.38.09:526][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.09-23.38.09:564][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.09-23.38.10:028][  0]SourceControl: Controle de origem desativado
+[2018.06.09-23.38.10:029][  0]SourceControl: Controle de origem desativado
+[2018.06.09-23.38.10:054][  0]SourceControl: Controle de origem desativado
+[2018.06.09-23.38.10:075][  0]SourceControl: Controle de origem desativado
+[2018.06.09-23.38.10:724][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.09-23.38.10:920][  0]LogOcInput: OculusInput pre-init called
+[2018.06.09-23.38.11:058][  0]LogEngine: Initializing Engine...
+[2018.06.09-23.38.11:078][  0]LogInstantPreview: Warning: Adb Not Detected.  Please set the ANDROID_HOME environment variable to your Android SDK directory and restart the Unreal editor.
+[2018.06.09-23.38.11:078][  0]LogHMD: GoogleVR API created
+[2018.06.09-23.38.11:080][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.09-23.38.11:080][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.09-23.38.11:454][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.09-23.38.11:581][  0]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.09-23.38.11:686][  0]LogInit: FAudioDevice initialized.
+[2018.06.09-23.38.11:812][  0]LogDerivedDataCache: Saved boot cache 0.13s 74MB C:/Users/allan/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.09-23.38.11:841][  0]LogInit: Texture streaming: Enabled
+[2018.06.09-23.38.11:866][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.09-23.38.11:889][  0]LogInit: Transaction tracking system initialized
+[2018.06.09-23.38.11:916][  0]BlueprintLog: New page: Carregar Editor
+[2018.06.09-23.38.12:024][  0]LocalizationService: Localization service is disabled
+[2018.06.09-23.38.12:176][  0]LogConsoleResponse: Display: 
+[2018.06.09-23.38.12:415][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.09-23.38.12:415][  0]LogCook: Display: Mobile HDR setting 0
+[2018.06.09-23.38.12:415][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.09-23.38.12:415][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.09-23.38.12:415][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.09-23.38.12:946][  0]LogFileCache: Scanning file cache for directory 'C:/Projects/MRVPROJECTUNREAL/Content/' took 0.02s
+[2018.06.09-23.38.12:946][  0]SourceControl: Controle de origem desativado
+[2018.06.09-23.38.12:946][  0]Cmd: MAP LOAD FILE="../../../../../../Projects/MRVPROJECTUNREAL/Content/HallLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.09-23.38.12:949][  0]LightingResults: New page: Compilação de Iluminação
+[2018.06.09-23.38.12:952][  0]MapCheck: New page: Verificação de Mapa
+[2018.06.09-23.38.12:952][  0]LightingResults: New page: Compilação de Iluminação
+[2018.06.09-23.38.13:027][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000145b97aff60, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.06.09-23.38.13:038][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000145b97aff60, Size=72
+[2018.06.09-23.38.13:038][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000145b975b2e0, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.06.09-23.38.13:046][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000145b96d7b00, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.06.09-23.38.13:068][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000145b96f3e00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.06.09-23.38.13:078][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000145b96f3e00, Size=256
+[2018.06.09-23.38.13:078][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000145b96f3e00, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_4:ExecuteUbergraph_FirstPersonProjectile
+[2018.06.09-23.38.13:084][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000145b96f0d00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.06.09-23.38.13:187][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000145b93a4700, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.06.09-23.38.13:213][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000145b93a4700, Size=688
+[2018.06.09-23.38.13:213][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000145b8fe9c00, Size=688, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_6:ExecuteUbergraph_FirstPersonCharacter
+[2018.06.09-23.38.13:228][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000145b8f1fd00, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.06.09-23.38.13:355][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000145bcfabee8, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.06.09-23.38.13:365][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000145bcfabee8, Size=52
+[2018.06.09-23.38.13:365][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000145bcfabee8, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_10:ExecuteUbergraph_FirstPersonHUD
+[2018.06.09-23.38.13:367][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000145bcfab8c8, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.06.09-23.38.13:616][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [3.594571ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.06.09-23.38.13:641][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [7.958600ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.06.09-23.38.13:740][  0]LogAIModule: Creating AISystem for world HallLevel
+[2018.06.09-23.38.13:782][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.06.09-23.38.13:806][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000145b975b2e0, Size=72
+[2018.06.09-23.38.13:806][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000145b96f3e00, Size=256
+[2018.06.09-23.38.13:806][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000145b8fe9c00, Size=688
+[2018.06.09-23.38.13:806][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000145bcfabee8, Size=52
+[2018.06.09-23.38.13:808][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.09-23.38.13:905][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 97,227ms to complete.
+[2018.06.09-23.38.13:905][  0]LogFileHelpers: Loading map 'HallLevel' took 0.959
+[2018.06.09-23.38.14:073][  0]LogCollectionManager: Loaded 0 collections in 0.002707 seconds
+[2018.06.09-23.38.14:116][  0]LogFileCache: Scanning file cache for directory 'C:/Projects/MRVPROJECTUNREAL/Saved/Collections/' took 0.01s
+[2018.06.09-23.38.14:116][  0]LogFileCache: Scanning file cache for directory 'C:/Projects/MRVPROJECTUNREAL/Content/Developers/allan/Collections/' took 0.01s
+[2018.06.09-23.38.14:116][  0]LogFileCache: Scanning file cache for directory 'C:/Projects/MRVPROJECTUNREAL/Content/Collections/' took 0.01s
+[2018.06.09-23.38.14:116][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.09-23.38.14:133][  0]LogContentBrowser: Native class hierarchy populated in 0.0170 seconds. Added 2453 classes and 561 folders.
+[2018.06.09-23.38.14:144][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.09-23.38.14:204][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.09-23.38.14:211][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.06.09-23.38.14:238][  0]LogSlate: Took 0.000523 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.09-23.38.14:243][  0]LogSlate: Took 0.001652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.09-23.38.14:269][  0]LogSlate: Took 0.000691 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.09-23.38.14:435][  0]LogRenderer: Reallocating scene render targets to support 964x460 Format 10 NumSamples 1 (Frame:1).
+[2018.06.09-23.38.14:569][  0]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.09-23.38.14:747][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.09-23.38.14:747][  0]LogLoad: (Engine Initialization) Total time: 16.12 seconds
+[2018.06.09-23.38.14:747][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.09-23.38.15:107][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.09-23.38.15:434][  1]LogAssetRegistry: Asset discovery search completed in 9.9381 seconds
+[2018.06.09-23.38.15:436][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.09-23.38.15:436][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2018.06.09-23.38.18:752][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.09-23.38.18:940][ 18]LogSlate: Took 0.002052 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.09-23.38.18:994][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_CobbleStone_Pebble_Mat”
+[2018.06.09-23.38.18:995][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_CobbleStone_Pebble_Mat.
+[2018.06.09-23.38.18:995][ 18]LoadErrors: Error: /Game/HugoLevel : Não é possível encontrar o arquivo do ativo. /Game/Textures/T_CobbleStone_Pebble_Mat
+[2018.06.09-23.38.18:995][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Concrete_Grime_Mat”
+[2018.06.09-23.38.18:995][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_Concrete_Grime_Mat.
+[2018.06.09-23.38.18:995][ 18]LoadErrors: Error: /Game/HugoLevel : Não é possível encontrar o arquivo do ativo. /Game/Textures/T_Concrete_Grime_Mat
+[2018.06.09-23.38.18:995][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Fire_Tiled_Mat”
+[2018.06.09-23.38.18:995][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_Fire_Tiled_Mat.
+[2018.06.09-23.38.18:995][ 18]LoadErrors: Error: /Game/HugoLevel : Não é possível encontrar o arquivo do ativo. /Game/Textures/T_Fire_Tiled_Mat
+[2018.06.09-23.38.18:996][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.18:996][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.18:996][ 18]LoadErrors: Error: /Game/HugoLevel : Não é possível encontrar o arquivo do ativo. /Game/Textures/T_Metal_Rust_Mat
+[2018.06.09-23.38.18:996][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Rock_Smooth_Granite_Mat”
+[2018.06.09-23.38.18:996][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_Rock_Smooth_Granite_Mat.
+[2018.06.09-23.38.18:996][ 18]LoadErrors: Error: /Game/HugoLevel : Não é possível encontrar o arquivo do ativo. /Game/Textures/T_Rock_Smooth_Granite_Mat
+[2018.06.09-23.38.18:999][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_CobbleStone_Pebble_Mat”
+[2018.06.09-23.38.18:999][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_CobbleStone_Pebble_Mat.
+[2018.06.09-23.38.18:999][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Concrete_Grime_Mat”
+[2018.06.09-23.38.19:000][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_Concrete_Grime_Mat.
+[2018.06.09-23.38.19:000][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Fire_Tiled_Mat”
+[2018.06.09-23.38.19:000][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_Fire_Tiled_Mat.
+[2018.06.09-23.38.19:000][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:000][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:000][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Rock_Smooth_Granite_Mat”
+[2018.06.09-23.38.19:001][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_Rock_Smooth_Granite_Mat.
+[2018.06.09-23.38.19:012][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:012][ 18]LoadErrors: Falha ao carregar /Game/Textures/T_Metal_Rust_Mat.T_Metal_Rust_Mat Referenciado por Model_3
+[2018.06.09-23.38.19:013][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:013][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:013][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:013][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:013][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:013][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:013][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:014][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:014][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:014][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:014][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:014][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:014][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:014][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:014][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:014][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:015][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:015][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:015][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:015][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:015][ 18]LoadErrors: Falha ao carregar /Game/Textures/T_Metal_Rust_Mat.T_Metal_Rust_Mat Referenciado por ModelComponent_27
+[2018.06.09-23.38.19:015][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:015][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:015][ 18]LoadErrors: Falha ao carregar /Game/Textures/T_Metal_Rust_Mat.T_Metal_Rust_Mat Referenciado por ModelComponent_28
+[2018.06.09-23.38.19:015][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:016][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:016][ 18]LoadErrors: Falha ao carregar /Game/Textures/T_Metal_Rust_Mat.T_Metal_Rust_Mat Referenciado por ModelComponent_29
+[2018.06.09-23.38.19:016][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:016][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:016][ 18]LoadErrors: Falha ao carregar /Game/Textures/T_Metal_Rust_Mat.T_Metal_Rust_Mat Referenciado por Polys_12
+[2018.06.09-23.38.19:016][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:016][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:016][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:017][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:017][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:017][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:017][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:017][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:017][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:017][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:017][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:018][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:018][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:018][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:018][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:018][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:018][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:018][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.19:018][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.19:019][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Concrete_Grime_Mat”
+[2018.06.09-23.38.19:019][ 18]LoadErrors: Falha ao carregar /Game/Textures/T_Concrete_Grime_Mat.T_Concrete_Grime_Mat Referenciado por Cube12_7
+[2018.06.09-23.38.19:019][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Concrete_Grime_Mat.
+[2018.06.09-23.38.19:020][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Rock_Smooth_Granite_Mat”
+[2018.06.09-23.38.19:020][ 18]LoadErrors: Falha ao carregar /Game/Textures/T_Rock_Smooth_Granite_Mat.T_Rock_Smooth_Granite_Mat Referenciado por Cube5
+[2018.06.09-23.38.19:020][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Rock_Smooth_Granite_Mat.
+[2018.06.09-23.38.19:020][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Rock_Smooth_Granite_Mat”
+[2018.06.09-23.38.19:020][ 18]LoadErrors: Falha ao carregar /Game/Textures/T_Rock_Smooth_Granite_Mat.T_Rock_Smooth_Granite_Mat Referenciado por Floor
+[2018.06.09-23.38.19:021][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Rock_Smooth_Granite_Mat.
+[2018.06.09-23.38.19:021][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Fire_Tiled_Mat”
+[2018.06.09-23.38.19:021][ 18]LoadErrors: Falha ao carregar /Game/Textures/T_Fire_Tiled_Mat.T_Fire_Tiled_Mat Referenciado por Sphere2
+[2018.06.09-23.38.19:021][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Fire_Tiled_Mat.
+[2018.06.09-23.38.19:021][ 18]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_CobbleStone_Pebble_Mat”
+[2018.06.09-23.38.19:021][ 18]LoadErrors: Falha ao carregar /Game/Textures/T_CobbleStone_Pebble_Mat.T_CobbleStone_Pebble_Mat Referenciado por Sphere_10
+[2018.06.09-23.38.19:021][ 18]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_CobbleStone_Pebble_Mat.
+[2018.06.09-23.38.19:035][ 18]LogAIModule: Creating AISystem for world HugoLevel
+[2018.06.09-23.38.19:062][ 18]Cmd: MAP LOAD FILE="../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.09-23.38.19:062][ 18]LightingResults: New page: Compilação de Iluminação
+[2018.06.09-23.38.19:063][ 18]LoadErrors: New page: Carregando mapa: HugoLevel.umap
+[2018.06.09-23.38.19:064][ 18]MapCheck: New page: Verificação de Mapa
+[2018.06.09-23.38.19:064][ 18]LightingResults: New page: Compilação de Iluminação
+[2018.06.09-23.38.19:084][ 18]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.09-23.38.19:125][ 18]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.09-23.38.19:193][ 18]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68,123ms to complete.
+[2018.06.09-23.38.19:193][ 18]LogFileHelpers: Loading map 'HugoLevel' took 0.132
+[2018.06.09-23.38.23:727][224]LogAIModule: Creating AISystem for world DavidLevel
+[2018.06.09-23.38.23:760][224]Cmd: MAP LOAD FILE="../../../../../../Projects/MRVPROJECTUNREAL/Content/DavidLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.09-23.38.23:760][224]LightingResults: New page: Compilação de Iluminação
+[2018.06.09-23.38.23:761][224]LoadErrors: New page: Carregando mapa: DavidLevel.umap
+[2018.06.09-23.38.23:762][224]MapCheck: New page: Verificação de Mapa
+[2018.06.09-23.38.23:762][224]LightingResults: New page: Compilação de Iluminação
+[2018.06.09-23.38.23:788][224]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.09-23.38.23:824][224]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.09-23.38.23:912][224]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 87,367ms to complete.
+[2018.06.09-23.38.23:912][224]LogFileHelpers: Loading map 'DavidLevel' took 0.152
+[2018.06.09-23.38.26:281][342]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.09-23.38.26:297][342]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DavidLevel.DavidLevel:PersistentLevel' has LevelScriptBlueprint '/Game/DavidLevel.DavidLevel:PersistentLevel.DavidLevel' with GeneratedClass '/Game/DavidLevel.DavidLevel_C' with ClassGeneratedBy '/Game/DavidLevel.DavidLevel:PersistentLevel.DavidLevel'
+[2018.06.09-23.38.26:297][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.09-23.38.26:297][342]PIE: New page: Sessão de PIE : DavidLevel (09/06/2018 17:38:26)
+[2018.06.09-23.38.26:298][342]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DavidLevel
+[2018.06.09-23.38.26:313][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015536s)
+[2018.06.09-23.38.26:314][342]LogAIModule: Creating AISystem for world DavidLevel
+[2018.06.09-23.38.26:314][342]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2018.06.09-23.38.26:314][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DavidLevel.DavidLevel to /Game/UEDPIE_0_DavidLevel.DavidLevel (0.016372s)
+[2018.06.09-23.38.26:328][342]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.09-23.38.26:407][342]LogInit: FAudioDevice initialized.
+[2018.06.09-23.38.26:453][342]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.09-23.38.26:456][342]LogWorld: Bringing World /Game/UEDPIE_0_DavidLevel.DavidLevel up for play (max tick rate 60) at 2018.06.09-20.38.26
+[2018.06.09-23.38.26:457][342]LogWorld: Bringing up level for play took: 0.002170
+[2018.06.09-23.38.26:461][342]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.06.09-23.38.26:464][342]PIE: Momento de início de reprodução no editor para /Game/UEDPIE_0_DavidLevel -0,106
+[2018.06.09-23.38.26:464][342]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DavidLevel.DavidLevel:PersistentLevel' has LevelScriptBlueprint '/Game/DavidLevel.DavidLevel:PersistentLevel.DavidLevel' with GeneratedClass '/Game/DavidLevel.DavidLevel_C' with ClassGeneratedBy '/Game/DavidLevel.DavidLevel:PersistentLevel.DavidLevel'
+[2018.06.09-23.38.33:032][696]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DavidLevel.DavidLevel:PersistentLevel' has LevelScriptBlueprint '/Game/DavidLevel.DavidLevel:PersistentLevel.DavidLevel' with GeneratedClass '/Game/DavidLevel.DavidLevel_C' with ClassGeneratedBy '/Game/DavidLevel.DavidLevel:PersistentLevel.DavidLevel'
+[2018.06.09-23.38.33:071][696]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DavidLevel.DavidLevel:PersistentLevel' has LevelScriptBlueprint '/Game/DavidLevel.DavidLevel:PersistentLevel.DavidLevel' with GeneratedClass '/Game/DavidLevel.DavidLevel_C' with ClassGeneratedBy '/Game/DavidLevel.DavidLevel:PersistentLevel.DavidLevel'
+[2018.06.09-23.38.34:249][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.09-23.38.34:431][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_CobbleStone_Pebble_Mat”
+[2018.06.09-23.38.34:432][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_CobbleStone_Pebble_Mat.
+[2018.06.09-23.38.34:432][764]LoadErrors: Error: /Game/HugoLevel : Não é possível encontrar o arquivo do ativo. /Game/Textures/T_CobbleStone_Pebble_Mat
+[2018.06.09-23.38.34:432][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Concrete_Grime_Mat”
+[2018.06.09-23.38.34:432][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_Concrete_Grime_Mat.
+[2018.06.09-23.38.34:432][764]LoadErrors: Error: /Game/HugoLevel : Não é possível encontrar o arquivo do ativo. /Game/Textures/T_Concrete_Grime_Mat
+[2018.06.09-23.38.34:432][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Fire_Tiled_Mat”
+[2018.06.09-23.38.34:432][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_Fire_Tiled_Mat.
+[2018.06.09-23.38.34:432][764]LoadErrors: Error: /Game/HugoLevel : Não é possível encontrar o arquivo do ativo. /Game/Textures/T_Fire_Tiled_Mat
+[2018.06.09-23.38.34:432][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:432][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:432][764]LoadErrors: Error: /Game/HugoLevel : Não é possível encontrar o arquivo do ativo. /Game/Textures/T_Metal_Rust_Mat
+[2018.06.09-23.38.34:432][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Rock_Smooth_Granite_Mat”
+[2018.06.09-23.38.34:433][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_Rock_Smooth_Granite_Mat.
+[2018.06.09-23.38.34:433][764]LoadErrors: Error: /Game/HugoLevel : Não é possível encontrar o arquivo do ativo. /Game/Textures/T_Rock_Smooth_Granite_Mat
+[2018.06.09-23.38.34:435][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_CobbleStone_Pebble_Mat”
+[2018.06.09-23.38.34:435][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_CobbleStone_Pebble_Mat.
+[2018.06.09-23.38.34:435][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Concrete_Grime_Mat”
+[2018.06.09-23.38.34:435][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_Concrete_Grime_Mat.
+[2018.06.09-23.38.34:435][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Fire_Tiled_Mat”
+[2018.06.09-23.38.34:435][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_Fire_Tiled_Mat.
+[2018.06.09-23.38.34:435][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:436][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:436][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Rock_Smooth_Granite_Mat”
+[2018.06.09-23.38.34:436][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap” ao carregar /Game/Textures/T_Rock_Smooth_Granite_Mat.
+[2018.06.09-23.38.34:445][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:446][764]LoadErrors: Falha ao carregar /Game/Textures/T_Metal_Rust_Mat.T_Metal_Rust_Mat Referenciado por Model_3
+[2018.06.09-23.38.34:446][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:446][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:446][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:446][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:446][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:446][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:446][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:446][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:447][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:447][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:447][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:447][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:447][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:447][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:447][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:447][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:447][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:448][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:448][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:448][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:448][764]LoadErrors: Falha ao carregar /Game/Textures/T_Metal_Rust_Mat.T_Metal_Rust_Mat Referenciado por ModelComponent_27
+[2018.06.09-23.38.34:448][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:448][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:448][764]LoadErrors: Falha ao carregar /Game/Textures/T_Metal_Rust_Mat.T_Metal_Rust_Mat Referenciado por ModelComponent_28
+[2018.06.09-23.38.34:448][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:448][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:449][764]LoadErrors: Falha ao carregar /Game/Textures/T_Metal_Rust_Mat.T_Metal_Rust_Mat Referenciado por ModelComponent_29
+[2018.06.09-23.38.34:449][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:449][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:450][764]LoadErrors: Falha ao carregar /Game/Textures/T_Metal_Rust_Mat.T_Metal_Rust_Mat Referenciado por Polys_12
+[2018.06.09-23.38.34:450][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:450][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:451][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:451][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:451][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:451][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:451][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:451][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:451][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:451][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:452][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:452][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:452][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:452][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:452][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:452][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:452][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:452][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Metal_Rust_Mat”
+[2018.06.09-23.38.34:453][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Metal_Rust_Mat.
+[2018.06.09-23.38.34:453][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Concrete_Grime_Mat”
+[2018.06.09-23.38.34:453][764]LoadErrors: Falha ao carregar /Game/Textures/T_Concrete_Grime_Mat.T_Concrete_Grime_Mat Referenciado por Cube12_7
+[2018.06.09-23.38.34:454][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Concrete_Grime_Mat.
+[2018.06.09-23.38.34:454][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Rock_Smooth_Granite_Mat”
+[2018.06.09-23.38.34:454][764]LoadErrors: Falha ao carregar /Game/Textures/T_Rock_Smooth_Granite_Mat.T_Rock_Smooth_Granite_Mat Referenciado por Cube5
+[2018.06.09-23.38.34:454][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Rock_Smooth_Granite_Mat.
+[2018.06.09-23.38.34:454][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Rock_Smooth_Granite_Mat”
+[2018.06.09-23.38.34:454][764]LoadErrors: Falha ao carregar /Game/Textures/T_Rock_Smooth_Granite_Mat.T_Rock_Smooth_Granite_Mat Referenciado por Floor
+[2018.06.09-23.38.34:454][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Rock_Smooth_Granite_Mat.
+[2018.06.09-23.38.34:455][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_Fire_Tiled_Mat”
+[2018.06.09-23.38.34:455][764]LoadErrors: Falha ao carregar /Game/Textures/T_Fire_Tiled_Mat.T_Fire_Tiled_Mat Referenciado por Sphere2
+[2018.06.09-23.38.34:455][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_Fire_Tiled_Mat.
+[2018.06.09-23.38.34:455][764]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/Textures/T_CobbleStone_Pebble_Mat”
+[2018.06.09-23.38.34:455][764]LoadErrors: Falha ao carregar /Game/Textures/T_CobbleStone_Pebble_Mat.T_CobbleStone_Pebble_Mat Referenciado por Sphere_10
+[2018.06.09-23.38.34:455][764]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/Textures/T_CobbleStone_Pebble_Mat.
+[2018.06.09-23.38.34:458][764]LogAIModule: Creating AISystem for world HugoLevel
+[2018.06.09-23.38.34:478][764]Cmd: MAP LOAD FILE="../../../../../../Projects/MRVPROJECTUNREAL/Content/HugoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.09-23.38.34:478][764]LightingResults: New page: Compilação de Iluminação
+[2018.06.09-23.38.34:479][764]LoadErrors: New page: Carregando mapa: HugoLevel.umap
+[2018.06.09-23.38.34:480][764]MapCheck: New page: Verificação de Mapa
+[2018.06.09-23.38.34:480][764]LightingResults: New page: Compilação de Iluminação
+[2018.06.09-23.38.34:497][764]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.09-23.38.34:530][764]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.09-23.38.34:611][764]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81,055ms to complete.
+[2018.06.09-23.38.34:611][764]LogFileHelpers: Loading map 'HugoLevel' took 0.134
+[2018.06.09-23.38.36:342][852]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.09-23.38.36:367][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.09-23.38.36:367][852]PIE: New page: Sessão de PIE : HugoLevel (09/06/2018 17:38:36)
+[2018.06.09-23.38.36:367][852]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_HugoLevel
+[2018.06.09-23.38.36:375][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007339s)
+[2018.06.09-23.38.36:375][852]LogAIModule: Creating AISystem for world HugoLevel
+[2018.06.09-23.38.36:375][852]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2018.06.09-23.38.36:375][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HugoLevel.HugoLevel to /Game/UEDPIE_0_HugoLevel.HugoLevel (0.008217s)
+[2018.06.09-23.38.36:391][852]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.09-23.38.36:468][852]LogInit: FAudioDevice initialized.
+[2018.06.09-23.38.36:506][852]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.09-23.38.36:508][852]LogWorld: Bringing World /Game/UEDPIE_0_HugoLevel.HugoLevel up for play (max tick rate 60) at 2018.06.09-20.38.36
+[2018.06.09-23.38.36:508][852]LogWorld: Bringing up level for play took: 0.001153
+[2018.06.09-23.38.36:511][852]PIE: Momento de início de reprodução no editor para /Game/UEDPIE_0_HugoLevel -0,059
+[2018.06.09-23.38.41:498][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.09-23.38.41:712][127]LogAIModule: Creating AISystem for world DavidLevel
+[2018.06.09-23.38.41:737][127]Cmd: MAP LOAD FILE="../../../../../../Projects/MRVPROJECTUNREAL/Content/DavidLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.09-23.38.41:738][127]LightingResults: New page: Compilação de Iluminação
+[2018.06.09-23.38.41:738][127]LoadErrors: New page: Carregando mapa: DavidLevel.umap
+[2018.06.09-23.38.41:739][127]MapCheck: New page: Verificação de Mapa
+[2018.06.09-23.38.41:739][127]LightingResults: New page: Compilação de Iluminação
+[2018.06.09-23.38.41:761][127]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.09-23.38.41:796][127]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.09-23.38.41:871][127]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75ms to complete.
+[2018.06.09-23.38.41:871][127]LogFileHelpers: Loading map 'DavidLevel' took 0.135
+[2018.06.09-23.39.57:361][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.09-23.40.48:676][330]LogSlate: Window 'Salvar Conteúdo' being destroyed
+[2018.06.09-23.40.48:771][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AllanLevel" FILE="../../../../../../Projects/MRVPROJECTUNREAL/Content/AllanLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.09-23.40.48:796][330]LogSavePackage: Save=10.01ms
+[2018.06.09-23.40.48:796][330]LogSavePackage: Moving '../../../../../../Projects/MRVPROJECTUNREAL/Saved/AllanLevel2D74965B42E0777D500564B07A7C9456.tmp' to '../../../../../../Projects/MRVPROJECTUNREAL/Content/AllanLevel.umap'
+[2018.06.09-23.40.48:802][330]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/MRVPROJECTUNREAL/Content/AllanLevel.umap
+[2018.06.09-23.40.48:802][330]LogFileHelpers: Saving map 'AllanLevel' took 0.115
+[2018.06.09-23.40.48:805][330]Cmd: MAP LOAD FILE="../../../../../../Projects/MRVPROJECTUNREAL/Content/AllanLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.09-23.40.48:806][330]LightingResults: New page: Compilação de Iluminação
+[2018.06.09-23.40.48:806][330]LoadErrors: New page: Carregando mapa: AllanLevel.umap
+[2018.06.09-23.40.48:807][330]MapCheck: New page: Verificação de Mapa
+[2018.06.09-23.40.48:807][330]LightingResults: New page: Compilação de Iluminação
+[2018.06.09-23.40.48:823][330]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.09-23.40.48:823][330]LogAIModule: Creating AISystem for world AllanLevel
+[2018.06.09-23.40.48:866][330]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.09-23.40.48:939][330]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73,36ms to complete.
+[2018.06.09-23.40.48:941][330]LogFileHelpers: Loading map 'AllanLevel' took 0.137
+[2018.06.09-23.41.01:175][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.09-23.41.29:484][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.09-23.41.29:541][258]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.09-23.41.29:565][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.09-23.41.29:565][258]PIE: New page: Sessão de PIE : AllanLevel (09/06/2018 17:41:29)
+[2018.06.09-23.41.29:565][258]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AllanLevel
+[2018.06.09-23.41.29:566][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000870s)
+[2018.06.09-23.41.29:567][258]LogAIModule: Creating AISystem for world AllanLevel
+[2018.06.09-23.41.29:567][258]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2018.06.09-23.41.29:568][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AllanLevel.AllanLevel to /Game/UEDPIE_0_AllanLevel.AllanLevel (0.002189s)
+[2018.06.09-23.41.29:587][258]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.09-23.41.29:680][258]LogInit: FAudioDevice initialized.
+[2018.06.09-23.41.29:718][258]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.09-23.41.29:719][258]LogWorld: Bringing World /Game/UEDPIE_0_AllanLevel.AllanLevel up for play (max tick rate 60) at 2018.06.09-20.41.29
+[2018.06.09-23.41.29:720][258]LogWorld: Bringing up level for play took: 0.000354
+[2018.06.09-23.41.29:722][258]PIE: Momento de início de reprodução no editor para /Game/UEDPIE_0_AllanLevel 1,152
+[2018.06.09-23.42.14:087][842]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.09-23.42.14:107][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.09-23.42.14:108][842]PIE: New page: Sessão de PIE : AllanLevel (09/06/2018 17:42:14)
+[2018.06.09-23.42.14:108][842]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AllanLevel
+[2018.06.09-23.42.14:108][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000491s)
+[2018.06.09-23.42.14:109][842]LogAIModule: Creating AISystem for world AllanLevel
+[2018.06.09-23.42.14:109][842]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2018.06.09-23.42.14:109][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AllanLevel.AllanLevel to /Game/UEDPIE_0_AllanLevel.AllanLevel (0.001243s)
+[2018.06.09-23.42.14:126][842]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.09-23.42.14:211][842]LogInit: FAudioDevice initialized.
+[2018.06.09-23.42.14:249][842]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.09-23.42.14:251][842]LogWorld: Bringing World /Game/UEDPIE_0_AllanLevel.AllanLevel up for play (max tick rate 60) at 2018.06.09-20.42.14
+[2018.06.09-23.42.14:251][842]LogWorld: Bringing up level for play took: 0.000419
+[2018.06.09-23.42.14:253][842]PIE: Momento de início de reprodução no editor para /Game/UEDPIE_0_AllanLevel -0,317
+[2018.06.09-23.51.27:935][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AllanLevel" FILE="../../../../../../Projects/MRVPROJECTUNREAL/Saved/Autosaves/Game/AllanLevel_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.06.09-23.51.27:955][476]LogSavePackage: Save=13.15ms
+[2018.06.09-23.51.27:955][476]LogSavePackage: Moving '../../../../../../Projects/MRVPROJECTUNREAL/Saved/AllanLevel_Auto15C41CAA64DFFD79F2C9594872525E729.tmp' to '../../../../../../Projects/MRVPROJECTUNREAL/Saved/Autosaves/Game/AllanLevel_Auto1.umap'
+[2018.06.09-23.51.27:956][476]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/MRVPROJECTUNREAL/Saved/Autosaves/Game/AllanLevel_Auto1.umap
+[2018.06.09-23.51.27:960][476]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AllanLevel' took 0.040
+[2018.06.09-23.51.27:960][476]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.040
+[2018.06.09-23.52.44:890][707]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.09-23.53.37:043][439]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.09-23.53.57:544][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.09-23.53.57:678][675]MapCheck: New page: Verificação de Mapa
+[2018.06.09-23.53.57:706][675]Cmd: MAP REBUILD ALLVISIBLE
+[2018.06.09-23.53.57:707][675]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.06.09-23.53.57:743][675]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2018.06.09-23.53.57:755][675]LightingResults: New page: Compilação de Iluminação - 09/06/2018 17:53:57
+[2018.06.09-23.53.57:793][675]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.06.09-23.53.57:863][675]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.06.09-23.53.57:878][675]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.06.09-23.53.58:388][675]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.06.09-23.53.58:388][675]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3256
+[2018.06.09-23.54.01:227][675]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.06.09-23.54.01:228][675]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.06.09-23.54.01:228][675]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.06.09-23.54.01:228][675]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.06.09-23.54.01:228][675]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.06.09-23.54.01:228][675]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.06.09-23.54.01:394][675]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.06.09-23.54.01:394][675]MapCheck: New page: AllanLevel - 09/06/2018 17:54:01
+[2018.06.09-23.54.01:478][675]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 83,232ms to complete.
+[2018.06.09-23.54.01:500][675]LogEditorBuildUtils: Build time 0:03
+[2018.06.09-23.54.03:342][750]Job is a success!
+[2018.06.09-23.54.03:439][751]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.016s
+[2018.06.09-23.54.03:439][751]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.06.09-23.54.03:439][751]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2018.06.09-23.54.03:439][751]LogVolumetricLightmapImport:      Bricks at Level
+[2018.06.09-23.54.03:439][751]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2018.06.09-23.54.03:439][751]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2018.06.09-23.54.03:439][751]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2018.06.09-23.54.03:491][751]Lightmass on ALLAN_PC: 1.32 sec total, 228 ms importing, 35 ms setup, 418 ms photons, 583 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 3.91 sec total, 0 ms processing.
+[2018.06.09-23.54.03:526][751]LogStaticLightingSystem: Illumination: 5.73 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2018.06.09-23.54.03:526][751]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.06.09-23.54.03:526][751]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.06.09-23.54.04:234][751]DumpUnbuiltLightIteractions
+[2018.06.09-23.54.04:234][751]Lights with unbuilt interactions: 0
+[2018.06.09-23.54.04:234][751]
+[2018.06.09-23.54.04:234][751]Primitives with unbuilt interactions: 0
+[2018.06.09-23.54.04:294][752]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.06.09-23.54.04:294][752]MapCheck: New page: AllanLevel - 09/06/2018 17:54:04
+[2018.06.09-23.54.04:380][752]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85,107ms to complete.
+[2018.06.09-23.54.15:101][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.09-23.54.17:511][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.09-23.54.17:610][537]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.09-23.54.17:628][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.09-23.54.17:628][537]PIE: New page: Sessão de PIE : AllanLevel (09/06/2018 17:54:17)
+[2018.06.09-23.54.17:628][537]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AllanLevel
+[2018.06.09-23.54.17:629][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000598s)
+[2018.06.09-23.54.17:630][537]LogAIModule: Creating AISystem for world AllanLevel
+[2018.06.09-23.54.17:630][537]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2018.06.09-23.54.17:630][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AllanLevel.AllanLevel to /Game/UEDPIE_0_AllanLevel.AllanLevel (0.001517s)
+[2018.06.09-23.54.17:646][537]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.09-23.54.17:730][537]LogInit: FAudioDevice initialized.
+[2018.06.09-23.54.17:770][537]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.09-23.54.17:771][537]LogWorld: Bringing World /Game/UEDPIE_0_AllanLevel.AllanLevel up for play (max tick rate 60) at 2018.06.09-20.54.17
+[2018.06.09-23.54.17:771][537]LogWorld: Bringing up level for play took: 0.000635
+[2018.06.09-23.54.17:777][537]PIE: Momento de início de reprodução no editor para /Game/UEDPIE_0_AllanLevel -0,793
+[2018.06.09-23.54.22:550][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.09-23.54.22:616][823]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.09-23.54.22:635][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.09-23.54.22:635][823]PIE: New page: Sessão de PIE : AllanLevel (09/06/2018 17:54:22)
+[2018.06.09-23.54.22:635][823]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AllanLevel
+[2018.06.09-23.54.22:636][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000636s)
+[2018.06.09-23.54.22:636][823]LogAIModule: Creating AISystem for world AllanLevel
+[2018.06.09-23.54.22:636][823]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2018.06.09-23.54.22:636][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AllanLevel.AllanLevel to /Game/UEDPIE_0_AllanLevel.AllanLevel (0.001368s)
+[2018.06.09-23.54.22:650][823]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.09-23.54.22:737][823]LogInit: FAudioDevice initialized.
+[2018.06.09-23.54.22:770][823]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.09-23.54.22:771][823]LogWorld: Bringing World /Game/UEDPIE_0_AllanLevel.AllanLevel up for play (max tick rate 60) at 2018.06.09-20.54.22
+[2018.06.09-23.54.22:771][823]LogWorld: Bringing up level for play took: 0.000366
+[2018.06.09-23.54.22:774][823]PIE: Momento de início de reprodução no editor para /Game/UEDPIE_0_AllanLevel 0,204
+[2018.06.09-23.54.25:666][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.09-23.56.38:054][663]LogEditorViewport: Clicking Background
+[2018.06.09-23.56.51:831][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.09-23.56.53:278][567]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.06.09-23.56.59:698][943]Cmd: EDCALLBACK SURFPROPS
+[2018.06.09-23.57.36:457][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.09-23.57.58:332][428]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.10-00.01.34:345][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AllanLevel" FILE="../../../../../../Projects/MRVPROJECTUNREAL/Saved/Autosaves/Game/AllanLevel_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.06.10-00.01.34:365][931]LogSavePackage: Save=15.61ms
+[2018.06.10-00.01.34:365][931]LogSavePackage: Moving '../../../../../../Projects/MRVPROJECTUNREAL/Saved/AllanLevel_Auto22DBABD9945A4D2FB6B1F0190EA2E335E.tmp' to '../../../../../../Projects/MRVPROJECTUNREAL/Saved/Autosaves/Game/AllanLevel_Auto2.umap'
+[2018.06.10-00.01.34:366][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/MRVPROJECTUNREAL/Saved/Autosaves/Game/AllanLevel_Auto2.umap
+[2018.06.10-00.01.34:369][931]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AllanLevel' took 0.040
+[2018.06.10-00.01.34:369][931]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.040
+[2018.06.10-00.01.34:375][931]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AllanLevel_BuiltData] ([1] browsable assets)...
+[2018.06.10-00.01.34:375][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/AllanLevel_BuiltData]
+[2018.06.10-00.01.34:375][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AllanLevel_BuiltData" FILE="../../../../../../Projects/MRVPROJECTUNREAL/Saved/Autosaves/Game/AllanLevel_BuiltData_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.06.10-00.01.34:384][931]LogSavePackage: Save=4.83ms
+[2018.06.10-00.01.34:384][931]LogSavePackage: Moving '../../../../../../Projects/MRVPROJECTUNREAL/Saved/AllanLevel_BuiltData_Auto238BDEED34E11EE9A6406B8A354AF8CB1.tmp' to '../../../../../../Projects/MRVPROJECTUNREAL/Saved/Autosaves/Game/AllanLevel_BuiltData_Auto2.uasset'
+[2018.06.10-00.01.34:385][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/MRVPROJECTUNREAL/Saved/Autosaves/Game/AllanLevel_BuiltData_Auto2.uasset
+[2018.06.10-00.01.34:385][931]LogFileHelpers: Auto-saving content packages took 0.011
+[2018.06.10-00.07.59:271][641]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.10-00.11.24:053][783]LogSlate: Window 'Salvar Conteúdo' being destroyed
+[2018.06.10-00.11.24:176][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AllanLevel" FILE="../../../../../../Projects/MRVPROJECTUNREAL/Content/AllanLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.10-00.11.24:213][783]LogSavePackage: Save=19.12ms
+[2018.06.10-00.11.24:213][783]LogSavePackage: Moving '../../../../../../Projects/MRVPROJECTUNREAL/Saved/AllanLevelEFAED46B428DB84BF8A0199AE91AD516.tmp' to '../../../../../../Projects/MRVPROJECTUNREAL/Content/AllanLevel.umap'
+[2018.06.10-00.11.24:218][783]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/MRVPROJECTUNREAL/Content/AllanLevel.umap
+[2018.06.10-00.11.24:244][783]LogFileHelpers: Saving map 'AllanLevel' took 0.149
+[2018.06.10-00.11.24:250][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AllanLevel_BuiltData" FILE="../../../../../../Projects/MRVPROJECTUNREAL/Content/AllanLevel_BuiltData.uasset" SILENT=true
+[2018.06.10-00.11.24:258][783]LogSavePackage: Save=4.34ms
+[2018.06.10-00.11.24:258][783]LogSavePackage: Moving '../../../../../../Projects/MRVPROJECTUNREAL/Saved/AllanLevel_BuiltData1CD6332E4E4D41FB2F7D96B8FEBCC4C7.tmp' to '../../../../../../Projects/MRVPROJECTUNREAL/Content/AllanLevel_BuiltData.uasset'
+[2018.06.10-00.11.24:264][783]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/MRVPROJECTUNREAL/Content/AllanLevel_BuiltData.uasset
+[2018.06.10-00.11.24:329][783]LogSlate: Window 'MRVPROJECT2 - Editor do Unreal' being destroyed
+[2018.06.10-00.11.24:557][784]Cmd: QUIT_EDITOR
+[2018.06.10-00.11.25:407][784]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.10-00.11.25:422][784]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.06.10-00.11.25:423][784]LogExit: Preparing to exit.
+[2018.06.10-00.11.25:841][784]LogDirectoryWatcher: A directory notification for 'C:/Projects/MRVPROJECTUNREAL/Content/' was aborted.
+[2018.06.10-00.11.25:886][784]LogExit: Editor shut down
+[2018.06.10-00.11.25:904][784]LogExit: Transaction tracking system shut down
+[2018.06.10-00.11.25:905][784]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000145b96d7b00, Size=72
+[2018.06.10-00.11.25:906][784]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000145b96f0d00, Size=256
+[2018.06.10-00.11.25:906][784]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000145b8f1fd00, Size=688
+[2018.06.10-00.11.25:906][784]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000145bcfab8c8, Size=52
+[2018.06.10-00.11.26:085][784]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.06.10-00.11.26:085][784]LogDirectoryWatcher: A directory notification for '../../../../../../Projects/MRVPROJECTUNREAL/Content/' was aborted.
+[2018.06.10-00.11.26:085][784]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.06.10-00.11.26:085][784]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.06.10-00.11.26:085][784]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.06.10-00.11.26:085][784]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.06.10-00.11.26:085][784]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.06.10-00.11.26:085][784]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.06.10-00.11.26:201][784]LogExit: Object subsystem successfully closed.
+[2018.06.10-00.11.26:223][784]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.06.10-00.11.26:229][784]LogD3D11RHI: Shutdown
+[2018.06.10-00.11.26:229][784]LogD3D11RHI: CleanupD3DDevice
+[2018.06.10-00.11.26:234][784]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.10-00.11.26:257][784]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (580)
+[2018.06.10-00.11.26:257][784]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (578)
+[2018.06.10-00.11.26:257][784]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2018.06.10-00.11.26:257][784]LogModuleManager: Shutting down and abandoning module SceneOutliner (574)
+[2018.06.10-00.11.26:257][784]LogModuleManager: Shutting down and abandoning module AddContentDialog (572)
+[2018.06.10-00.11.26:257][784]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.06.10-00.11.26:263][784]LogModuleManager: Shutting down and abandoning module WidgetCarousel (571)
+[2018.06.10-00.11.26:263][784]LogModuleManager: Shutting down and abandoning module EditorWidgets (568)
+[2018.06.10-00.11.26:263][784]LogModuleManager: Shutting down and abandoning module CollectionManager (566)
+[2018.06.10-00.11.26:263][784]LogDirectoryWatcher: A directory notification for 'C:/Projects/MRVPROJECTUNREAL/Content/Collections/' was aborted.
+[2018.06.10-00.11.26:263][784]LogDirectoryWatcher: A directory notification for 'C:/Projects/MRVPROJECTUNREAL/Content/Developers/allan/Collections/' was aborted.
+[2018.06.10-00.11.26:264][784]LogDirectoryWatcher: A directory notification for 'C:/Projects/MRVPROJECTUNREAL/Saved/Collections/' was aborted.
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module StatsViewer (564)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module FoliageEdit (562)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module LandscapeEditor (560)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module MeshPaintMode (558)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (556)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module ActorPickerMode (554)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module GeometryMode (552)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module TextureAlignMode (550)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module BspMode (548)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (546)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module HardwareSurvey (544)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (542)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module AutomationWorker (540)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (538)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module SequenceRecorder (537)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (534)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (532)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module PlacementMode (531)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module MaterialEditor (530)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (526)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (524)
+[2018.06.10-00.11.26:264][784]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (522)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (520)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (518)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (516)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (514)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (512)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (510)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (508)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module CharacterAI (506)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module SmartSnapping (504)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module SessionServices (502)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module ViewportSnapping (500)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module ViewportInteraction (498)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module ClothPainter (496)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (495)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module LogVisualizer (492)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module IntroTutorials (490)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (489)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (486)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (484)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (482)
+[2018.06.10-00.11.26:265][784]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (481)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (478)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (476)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (474)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module InputBindingEditor (472)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module MergeActors (470)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (468)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module LocalizationService (467)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module HardwareTargeting (464)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (462)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module UndoHistory (460)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module XmlParser (458)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module Blutility (456)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (454)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (453)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (450)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module SettingsEditor (448)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module ProjectLauncher (446)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module SessionFrontend (444)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module ProfilerClient (442)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module DeviceManager (440)
+[2018.06.10-00.11.27:252][784]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (439)
+[2018.06.10-00.11.27:319][784]LogModuleManager: Shutting down and abandoning module AutomationController (436)
+[2018.06.10-00.11.27:319][784]LogModuleManager: Shutting down and abandoning module AutomationWindow (434)
+[2018.06.10-00.11.27:319][784]LogModuleManager: Shutting down and abandoning module Layers (432)
+[2018.06.10-00.11.27:319][784]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (430)
+[2018.06.10-00.11.27:319][784]LogModuleManager: Shutting down and abandoning module DetailCustomizations (428)
+[2018.06.10-00.11.27:319][784]LogModuleManager: Shutting down and abandoning module PackagesDialog (426)
+[2018.06.10-00.11.27:320][784]LogModuleManager: Shutting down and abandoning module Persona (424)
+[2018.06.10-00.11.27:320][784]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (423)
+[2018.06.10-00.11.27:320][784]LogModuleManager: Shutting down and abandoning module AnimGraph (421)
+[2018.06.10-00.11.27:320][784]LogModuleManager: Shutting down and abandoning module Kismet (418)
+[2018.06.10-00.11.27:320][784]LogModuleManager: Shutting down and abandoning module GraphEditor (416)
+[2018.06.10-00.11.27:320][784]LogModuleManager: Shutting down and abandoning module ClassViewer (414)
+[2018.06.10-00.11.27:321][784]LogModuleManager: Shutting down and abandoning module Toolbox (412)
+[2018.06.10-00.11.27:321][784]LogModuleManager: Shutting down and abandoning module ModuleUI (410)
+[2018.06.10-00.11.27:321][784]LogModuleManager: Shutting down and abandoning module MovieSceneTools (408)
+[2018.06.10-00.11.27:321][784]LogModuleManager: Shutting down and abandoning module OutputLog (406)
+[2018.06.10-00.11.27:321][784]LogModuleManager: Shutting down and abandoning module GammaUI (404)
+[2018.06.10-00.11.27:321][784]LogModuleManager: Shutting down and abandoning module Documentation (402)
+[2018.06.10-00.11.27:321][784]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (400)
+[2018.06.10-00.11.27:321][784]LogModuleManager: Shutting down and abandoning module MovieScene (398)
+[2018.06.10-00.11.27:321][784]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (396)
+[2018.06.10-00.11.27:321][784]LogModuleManager: Shutting down and abandoning module LauncherPlatform (394)
+[2018.06.10-00.11.27:321][784]LogModuleManager: Shutting down and abandoning module AnalyticsET (392)
+[2018.06.10-00.11.27:321][784]LogModuleManager: Shutting down and abandoning module PortalServices (390)
+[2018.06.10-00.11.27:321][784]LogModuleManager: Shutting down and abandoning module PortalRpc (388)
+[2018.06.10-00.11.27:321][784]LogModuleManager: Shutting down and abandoning module MessagingRpc (386)
+[2018.06.10-00.11.27:321][784]LogModuleManager: Shutting down and abandoning module AIModule (384)
+[2018.06.10-00.11.27:321][784]LogModuleManager: Shutting down and abandoning module GameplayDebugger (383)
+[2018.06.10-00.11.27:321][784]LogModuleManager: Shutting down and abandoning module AITestSuite (381)
+[2018.06.10-00.11.27:321][784]LogModuleManager: Shutting down and abandoning module DesktopPlatform (378)
+[2018.06.10-00.11.27:321][784]LogModuleManager: Shutting down and abandoning module ProfilerService (376)
+[2018.06.10-00.11.27:542][784]LogModuleManager: Shutting down and abandoning module TaskGraph (374)
+[2018.06.10-00.11.27:542][784]LogModuleManager: Shutting down and abandoning module SteamVRController (372)
+[2018.06.10-00.11.27:542][784]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (370)
+[2018.06.10-00.11.27:542][784]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (368)
+[2018.06.10-00.11.27:542][784]LogModuleManager: Shutting down and abandoning module OculusInput (366)
+[2018.06.10-00.11.27:542][784]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (364)
+[2018.06.10-00.11.27:542][784]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (362)
+[2018.06.10-00.11.27:542][784]LogModuleManager: Shutting down and abandoning module CableComponent (360)
+[2018.06.10-00.11.27:542][784]LogModuleManager: Shutting down and abandoning module AudioCapture (358)
+[2018.06.10-00.11.27:542][784]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (356)
+[2018.06.10-00.11.27:542][784]LogModuleManager: Shutting down and abandoning module AndroidPermission (354)
+[2018.06.10-00.11.27:542][784]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (350)
+[2018.06.10-00.11.27:542][784]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (348)
+[2018.06.10-00.11.27:542][784]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (346)
+[2018.06.10-00.11.27:542][784]LogModuleManager: Shutting down and abandoning module MediaCompositing (344)
+[2018.06.10-00.11.27:542][784]LogModuleManager: Shutting down and abandoning module LinearTimecode (342)
+[2018.06.10-00.11.27:542][784]LogModuleManager: Shutting down and abandoning module ImgMedia (340)
+[2018.06.10-00.11.27:549][784]LogModuleManager: Shutting down and abandoning module HTML5Networking (338)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module AlembicImporter (336)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module AlembicLibrary (335)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module GeometryCache (334)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (333)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module DatasmithContent (328)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (326)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module PluginBrowser (324)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (322)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (320)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module CryptoKeys (318)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (316)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (314)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module UObjectPlugin (312)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (310)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (308)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module GitSourceControl (306)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module SourceControl (305)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (302)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (300)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (298)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (296)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module Paper2DEditor (294)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module MeshPaint (293)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (290)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (288)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module PhysXVehicles (286)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module OculusEditor (284)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (282)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (280)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (278)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module ActorSequence (276)
+[2018.06.10-00.11.27:550][784]LogModuleManager: Shutting down and abandoning module UdpMessaging (274)
+[2018.06.10-00.11.27:652][784]LogModuleManager: Shutting down and abandoning module TcpMessaging (272)
+[2018.06.10-00.11.27:753][784]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (270)
+[2018.06.10-00.11.27:753][784]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (268)
+[2018.06.10-00.11.27:753][784]LogModuleManager: Shutting down and abandoning module FacialAnimation (266)
+[2018.06.10-00.11.27:753][784]LogModuleManager: Shutting down and abandoning module DataValidation (264)
+[2018.06.10-00.11.27:753][784]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (262)
+[2018.06.10-00.11.27:753][784]LogModuleManager: Shutting down and abandoning module LevelEditor (261)
+[2018.06.10-00.11.27:753][784]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (260)
+[2018.06.10-00.11.27:753][784]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (258)
+[2018.06.10-00.11.27:753][784]LogModuleManager: Shutting down and abandoning module MainFrame (256)
+[2018.06.10-00.11.27:753][784]LogModuleManager: Shutting down and abandoning module HotReload (255)
+[2018.06.10-00.11.27:754][784]LogModuleManager: Shutting down and abandoning module ContentBrowser (251)
+[2018.06.10-00.11.27:755][784]LogModuleManager: Shutting down and abandoning module TreeMap (249)
+[2018.06.10-00.11.27:756][784]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (246)
+[2018.06.10-00.11.27:756][784]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (244)
+[2018.06.10-00.11.27:756][784]LogModuleManager: Shutting down and abandoning module LiveLink (242)
+[2018.06.10-00.11.28:239][784]LogModuleManager: Shutting down and abandoning module Paper2D (240)
+[2018.06.10-00.11.28:239][784]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (238)
+[2018.06.10-00.11.28:239][784]LogModuleManager: Shutting down and abandoning module WmfMedia (236)
+[2018.06.10-00.11.28:241][784]LogModuleManager: Shutting down and abandoning module Media (235)
+[2018.06.10-00.11.28:247][784]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2018.06.10-00.11.28:247][784]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2018.06.10-00.11.28:247][784]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2018.06.10-00.11.28:248][784]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2018.06.10-00.11.28:248][784]LogModuleManager: Shutting down and abandoning module Overlay (224)
+[2018.06.10-00.11.28:248][784]LogModuleManager: Shutting down and abandoning module OverlayEditor (223)
+[2018.06.10-00.11.28:248][784]LogModuleManager: Shutting down and abandoning module VREditor (220)
+[2018.06.10-00.11.28:248][784]LogModuleManager: Shutting down and abandoning module StringTableEditor (218)
+[2018.06.10-00.11.28:248][784]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (216)
+[2018.06.10-00.11.28:248][784]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (214)
+[2018.06.10-00.11.28:248][784]LogModuleManager: Shutting down and abandoning module FunctionalTesting (212)
+[2018.06.10-00.11.28:248][784]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (210)
+[2018.06.10-00.11.28:248][784]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (209)
+[2018.06.10-00.11.28:248][784]LogModuleManager: Shutting down and abandoning module UMG (206)
+[2018.06.10-00.11.28:248][784]LogModuleManager: Shutting down and abandoning module UMGEditor (205)
+[2018.06.10-00.11.28:248][784]LogModuleManager: Shutting down and abandoning module Sequencer (204)
+[2018.06.10-00.11.28:248][784]LogModuleManager: Shutting down and abandoning module MessageLog (201)
+[2018.06.10-00.11.28:248][784]LogModuleManager: Shutting down and abandoning module SlateReflector (196)
+[2018.06.10-00.11.28:248][784]LogModuleManager: Shutting down and abandoning module Slate (194)
+[2018.06.10-00.11.28:248][784]LogModuleManager: Shutting down and abandoning module EditorStyle (192)
+[2018.06.10-00.11.28:250][784]LogModuleManager: Shutting down and abandoning module MRMesh (190)
+[2018.06.10-00.11.28:251][784]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (188)
+[2018.06.10-00.11.28:251][784]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (186)
+[2018.06.10-00.11.28:251][784]LogModuleManager: Shutting down and abandoning module XAudio2 (184)
+[2018.06.10-00.11.28:251][784]LogModuleManager: Shutting down and abandoning module Networking (182)
+[2018.06.10-00.11.28:251][784]LogModuleManager: Shutting down and abandoning module Core (180)
+[2018.06.10-00.11.28:251][784]LogModuleManager: Shutting down and abandoning module LevelSequence (178)
+[2018.06.10-00.11.28:251][784]LogModuleManager: Shutting down and abandoning module KismetCompiler (176)
+[2018.06.10-00.11.28:251][784]LogModuleManager: Shutting down and abandoning module MeshUtilities (174)
+[2018.06.10-00.11.28:251][784]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (173)
+[2018.06.10-00.11.28:251][784]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (172)
+[2018.06.10-00.11.28:251][784]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (171)
+[2018.06.10-00.11.28:251][784]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (169)
+[2018.06.10-00.11.28:251][784]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (167)
+[2018.06.10-00.11.28:251][784]LogModuleManager: Shutting down and abandoning module MaterialBaking (163)
+[2018.06.10-00.11.28:251][784]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (159)
+[2018.06.10-00.11.28:258][784]LogModuleManager: Shutting down and abandoning module DerivedDataCache (156)
+[2018.06.10-00.11.28:292][784]LogDerivedDataCache: Shutdown
+[2018.06.10-00.11.28:293][784]LogModuleManager: Shutting down and abandoning module XGEController (154)
+[2018.06.10-00.11.28:293][784]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2018.06.10-00.11.28:293][784]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2018.06.10-00.11.28:293][784]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2018.06.10-00.11.28:293][784]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2018.06.10-00.11.28:293][784]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2018.06.10-00.11.28:293][784]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2018.06.10-00.11.28:293][784]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2018.06.10-00.11.28:293][784]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2018.06.10-00.11.28:293][784]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (137)
+[2018.06.10-00.11.28:293][784]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (135)
+[2018.06.10-00.11.28:293][784]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (133)
+[2018.06.10-00.11.28:293][784]LogModuleManager: Shutting down and abandoning module ImageWrapper (132)
+[2018.06.10-00.11.28:293][784]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (129)
+[2018.06.10-00.11.28:293][784]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2018.06.10-00.11.28:293][784]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2018.06.10-00.11.28:293][784]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2018.06.10-00.11.28:293][784]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (121)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (119)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (115)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (103)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (101)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (99)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (97)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (95)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (93)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (91)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (89)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (87)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (85)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (83)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (81)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (79)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (77)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (75)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (73)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (71)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module InputCore (68)
+[2018.06.10-00.11.28:294][784]LogModuleManager: Shutting down and abandoning module Settings (66)
+[2018.06.10-00.11.28:295][784]LogModuleManager: Shutting down and abandoning module PhysXCooking (64)
+[2018.06.10-00.11.28:295][784]LogModuleManager: Shutting down and abandoning module SteamVR (62)
+[2018.06.10-00.11.28:295][784]LogModuleManager: Shutting down and abandoning module OculusHMD (60)
+[2018.06.10-00.11.28:295][784]LogModuleManager: Shutting down and abandoning module GoogleVRHMD (58)
+[2018.06.10-00.11.28:295][784]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.06.10-00.11.28:295][784]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.06.10-00.11.28:295][784]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.06.10-00.11.28:295][784]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.06.10-00.11.28:295][784]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.06.10-00.11.28:295][784]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.06.10-00.11.28:295][784]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.06.10-00.11.28:295][784]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.06.10-00.11.28:295][784]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FFC4362-46FC-B4FD-9ACF-BDB22B1A0E98%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=00f0bee549476b085941cbbd3f5d4d96%7Cdb23516d7949400e8aa3f32c53dea654%7Ca1786ec4-b7a2-4848-a016-b91928007580&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.10-00.11.28:324][784]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.06.10-00.11.28:325][784]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.06.10-00.11.28:326][784]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.06.10-00.11.28:326][784]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.06.10-00.11.28:326][784]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.06.10-00.11.28:326][784]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.06.10-00.11.28:326][784]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.06.10-00.11.28:326][784]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.06.10-00.11.28:330][784]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.06.10-00.11.28:330][784]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.06.10-00.11.28:330][784]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.06.10-00.11.28:330][784]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.06.10-00.11.28:330][784]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.06.10-00.11.28:330][784]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.06.10-00.11.28:330][784]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.06.10-00.11.28:330][784]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.06.10-00.11.28:330][784]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.06.10-00.11.28:330][784]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.06.10-00.11.28:330][784]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.06.10-00.11.28:338][784]LogExit: Exiting.
+[2018.06.10-00.11.28:357][784]Log file closed, 06/09/18 21:11:28
